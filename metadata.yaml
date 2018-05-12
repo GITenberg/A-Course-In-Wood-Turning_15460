@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '6071'
     url: http://www.gutenberg.org/2009/agents/6071
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15460#A-Course-In-Wood-Turning
 gutenberg_bookshelf:
 - Crafts
 - Woodwork
