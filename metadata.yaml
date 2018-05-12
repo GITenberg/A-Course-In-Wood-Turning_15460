@@ -1,0 +1,36 @@
+_repo: A-Course-In-Wood-Turning_15460
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Wohlers, Otto K.
+    birthdate: 1893
+    gutenberg_agent_id: '6072'
+    url: http://www.gutenberg.org/2009/agents/6072
+  - agent_name: Milton, Archie Seldon
+    birthdate: 1887
+    gutenberg_agent_id: '6071'
+    url: http://www.gutenberg.org/2009/agents/6071
+description: ''
+gutenberg_bookshelf:
+- Crafts
+- Woodwork
+- Technology
+gutenberg_issued: '2005-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15460'
+  lccn: '19005054'
+language: en
+publication_note: "The Bruce Publishing Company\r\nMilwaukee, Wisconsin\r\n1919"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Turning (Lathe work)'
+- !lcsh 'Woodwork'
+- !lcc 'TT'
+title: A Course In Wood Turning
+url: http://www.gutenberg.org/ebooks/15460
